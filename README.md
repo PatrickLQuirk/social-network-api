@@ -4,6 +4,8 @@
 ## Description
 This is the back-end for a social network web application. In this application, users can share their thoughts, react to the thoughts of others, and create a friend list. The application utilizes MongoDB for the database, the Mongoose ODM, and Express.js for routing.
 
+![Website](social-network-api.png)
+
 ## Table of Contents
 
 - [Installation](#installation)
